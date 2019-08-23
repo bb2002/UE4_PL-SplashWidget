@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SplashWidget",
+	"Description": "Splash Widget Plugin",
+	"Category": "Other",
+	"CreatedBy": "Saint software",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SplashWidget",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
